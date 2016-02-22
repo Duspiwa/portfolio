@@ -67,6 +67,17 @@ p {
   color: #fff;
   text-decoration: none;
 }
+
+/* body */
+#about img{
+  text-align: center;
+  margin: 0;
+  padding:0;
+  float: center;
+}
+
+
+
 /* footer */
 
 footer {
@@ -89,11 +100,11 @@ footer small {
 }
 
 footer ul {
-  float: right;
+  float: center;
   list-style: none;
 }
 
 footer ul li {
-  float: left;
+  float: center;
   margin-left: 15px;
 }
